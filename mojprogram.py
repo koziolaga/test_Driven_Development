@@ -6,3 +6,15 @@ def inna_metoda(param):
 
 def hello():
     return "Hello_world"
+
+def add():
+    return 1+3
+
+def substract():
+    return 4-3
+
+def calc():
+    return 2*3
+
+def div():
+    return 6/3
